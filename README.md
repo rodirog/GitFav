@@ -1,4 +1,5 @@
 # GitFav
+![ezgif com-gif-makera](https://github.com/rodirog/GitFav/assets/101756238/cb8c72a0-5b0c-4ec3-8780-d77b1c210404)
 
 ## 💻 Project
 A responsive application to keep a list of your favorite Github users recreated from an existing Figma design
